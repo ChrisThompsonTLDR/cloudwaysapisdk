@@ -1,16 +1,16 @@
 {
-	"name": "cloudwaysapi/phpsdk",
+	"name": "christhompsontldr/phpsdk",
 	"type": "SDK",
 	"description": "Cloudways API SDK for PHP",
 	"keywords": [
 		"cloudways API"
 	],
-	"homepage": "http://www.cloudways.com/",
+	"homepage": "https://christhompsontldr.com",
 	"license": "MIT",
 	"authors": [{
-		"name": "Ahmed Khan",
-		"email": "ahmed.khan@cloudways.com",
-		"homepage": "https://github.com/ahmedkhan847"
+		"name": "Chris Thompson",
+		"email": "christhompsontldr@gmail.com",
+		"homepage": "https://github.com/ChrisThompsonTLDR/cloudwaysapisdk"
 	}],
 	"require": {
 		"guzzlehttp/guzzle": "^6.2",
