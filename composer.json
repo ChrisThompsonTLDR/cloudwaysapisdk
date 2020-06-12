@@ -21,6 +21,5 @@
 			"Cloudways\\": "src/Cloudways/"
 		}
 	},
-	"version": "1.0.0",
 	"minimum-stability": "dev"
 }
